@@ -1,0 +1,22 @@
+
+*{margin:0; padding:0; box-sizing: border-box; list-style-type: none;}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(231, 231, 231);
+  
+  #phone {
+    width: 390px;
+    height: 844px;
+    border-radius: 25px;
+    display: flex;
+    overflow: hidden;
+    background-color: #ccc;
+  
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+  }
+}
