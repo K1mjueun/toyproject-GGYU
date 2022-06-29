@@ -38,4 +38,8 @@
   background-position: center;
   background-image: url("/img/히어로햄스터와-지구.png");
 }
+
+#start-page .ham-on-earth:hover {
+  cursor: pointer;
+}
 /*# sourceMappingURL=start-page.css.map */
